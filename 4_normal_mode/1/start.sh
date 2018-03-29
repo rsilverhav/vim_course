@@ -1,1 +1,1 @@
-vim -c "call cursor(0, 41)" file1.cc
+vim -c "call cursor(0, 5)" file1.cc
